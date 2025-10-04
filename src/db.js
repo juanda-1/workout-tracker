@@ -4,9 +4,9 @@ console.log("⚠️ Running API without real database (using in-memory data)");
 const db = {
   users: [
     { id: 1, name: "Juan", email: "juan@example.com" },
-    { id: 2, name: "Ana", email: "ana@example.com" },
-    { id: 3, name: "Pedro", email: "pedro@example.com" },
-    { id: 4, name: "Luisa", email: "luisa@example.com" }
+    { id: 2, name: "Michell", email: "michell@example.com" },
+    { id: 3, name: "andres", email: "andres@example.com" },
+    { id: 4, name: "sebastian", email: "sebastian@example.com" }
   ],
   workouts: [
     { id: 1, userId: 1, title: "Rutina de pecho", date: "2025-09-19" },
